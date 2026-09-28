@@ -1,5 +1,5 @@
 /* Practice Problem 02
-ID- 262-16-082
+ID- 
 B_2
 */
 
